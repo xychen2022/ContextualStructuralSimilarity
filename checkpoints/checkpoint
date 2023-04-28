@@ -1,0 +1,2 @@
+model_checkpoint_path: "supervised_model_epoch47_avg0.852989.ckpt"
+all_model_checkpoint_paths: "supervised_model_epoch47_avg0.852989.ckpt"
