@@ -17,4 +17,4 @@ Step3: Inference
        Command: python testing
 
 
-A pretrained a model is previded in checkpoints folder. It is trained with images from 21 to 82. When using it for inference, you can expect an average DSC of 85.4%
+A pretrained a model is previded in checkpoints folder. It is trained with images from 21 to 82. When using it for inference, you can expect an average DSC of 85.4% on the first folder
