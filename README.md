@@ -2,7 +2,7 @@
 
 Step1: Data preprocessing 
 
-       Don't worry! It is not complex. Only spatial normalization and intensity clipping are needed.
+       Don't worry about it! Only spatial normalization and intensity clipping are needed.
        
        Images are named as "image0001.nii.gz", while labels are named as "label0001.nii.gz".
        
