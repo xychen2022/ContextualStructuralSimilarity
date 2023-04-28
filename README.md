@@ -1,6 +1,6 @@
 # ContextualStructuralSimilarity
 
-In the released code, we demonstrate the use of our method for pancreas segmentation using NIH pancreas dataset. However, the same model can be used for other organs. To use the code, follow the 3 steps below.
+In the released code, we demonstrate the use of our method for pancreas segmentation using NIH pancreas dataset. However, the same method can be used for other organs accurately and efficiently. To use the code, follow the 3 steps below.
 
 Step1: Data preprocessing 
 
