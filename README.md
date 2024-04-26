@@ -6,7 +6,7 @@ Official code for our Pattern Recognition paper [Improving image segmentation wi
 In this paper, we propose a contextual similarity loss and a structural similarity loss for measuring the high-level similarity between segmentation model predictions and the corresponding ground-truth. These two loss functions complement and can be used together with pixel/voxel-level loss functions, e.g., cross-entropy loss and dice loss, for improved segmentation performance.
 
 # How to use?
-In the released code, we demonstrate the use of our method for pancreas segmentation using NIH pancreas dataset. However, the same method can be used for other organs accurately and efficiently. To use the code, follow the 3 steps below.
+In the released code, we demonstrate the use of our method for pancreas segmentation using publicly available [NIH pancreas dataset](https://www.cancerimagingarchive.net/collection/pancreas-ct/). However, the same method can be used for other organs accurately and efficiently. To use the code, follow the 3 steps below.
 
 Step1: Data preprocessing 
 
