@@ -1,6 +1,6 @@
 # ContextualStructuralSimilarity
 
-Official code for our [Pattern Recognition paper Improving image segmentation with contextual and structural similarity](https://www.sciencedirect.com/science/article/pii/S0031320324002401?dgcid=rss_sd_all).
+Official code for our Pattern Recognition paper [Improving image segmentation with contextual and structural similarity](https://www.sciencedirect.com/science/article/pii/S0031320324002401?dgcid=rss_sd_all).
 
 # Highlights
 In this paper, we propose a contextual similarity loss and a structural similarity loss for measuring the high-level similarity between segmentation model predictions and the corresponding ground-truth. These two loss functions complement and can be used together with pixel/voxel-level loss functions, e.g., cross-entropy loss and dice loss, for improved segmentation performance.
