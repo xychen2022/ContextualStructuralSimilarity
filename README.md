@@ -1,5 +1,9 @@
 # ContextualStructuralSimilarity
 
+Official code for our Pattern Recognition paper Improving image segmentation with contextual and structural similarity.
+
+Link to paper: https://www.sciencedirect.com/science/article/pii/S0031320324002401?dgcid=rss_sd_all
+
 In the released code, we demonstrate the use of our method for pancreas segmentation using NIH pancreas dataset. However, the same method can be used for other organs accurately and efficiently. To use the code, follow the 3 steps below.
 
 Step1: Data preprocessing 
